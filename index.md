@@ -9,8 +9,10 @@
 Adding an image 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-
+Add a code example
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
